@@ -9,9 +9,9 @@ enfants cherchent la carte sur la table et la tapent avec leur baguette à vento
 Les fichiers de ce dépôt sont **chiffrés** : sans le code d'accès donné aux familles par la TEAM XDK, ils ne
 s'ouvrent pas. Le même code ouvre tous les jeux pour enfants (Tchac !, Petits Pas).
 
-- 💻 **PC (Windows 10 et 11)** : installe [XDK Hub](https://github.com/xavstream/XDK-Hub-releases/releases/latest),
+- 💻 **PC (Windows 10 et 11)** : installe [XDK Hub](https://github.com/XDK-Vito/XDK-Hub-releases/releases/latest),
   va dans **Jeux pour enfants**, choisis **Tchac !** et tape le code. Le hub s'en souvient et garde le jeu à jour.
-- 📱 **Android** et 🌐 **navigateur** : ouvre **https://xavstream.github.io/XDK-Tchac-releases/** et tape le code.
+- 📱 **Android** et 🌐 **navigateur** : ouvre **https://xdk-vito.github.io/XDK-Tchac-releases/** et tape le code.
   Tu peux y jouer tout de suite, télécharger l'appli Android (`XDKTchac.apk`) et les cartes à imprimer.
 
 ## Les cartes à imprimer
